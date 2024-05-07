@@ -9,7 +9,7 @@ const Login = () => {
       <AuthForm type="LOGIN" />
       <p>GUEST LOGIN | email : guest@gmail.com | password : guest </p>
       <section className="flex items-center gap-2">
-        <p>Don&apos;t have account yet? </p>
+        <p>Do not have account yet? </p>
         <Link href="/signup" className="font-medium hover:underline">
           Sign up
         </Link>
