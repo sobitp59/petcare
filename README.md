@@ -7,3 +7,34 @@
 ![image](https://github.com/sobitp59/petcare/assets/66735394/7c64b477-bd96-45ed-b957-73e420c827fc)
 ![image](https://github.com/sobitp59/petcare/assets/66735394/3956c6aa-b8fb-43ff-bd85-d9197cdcb0ae)
 ![image](https://github.com/sobitp59/petcare/assets/66735394/dde9e256-37ad-4922-857c-721f9a01569f)
+
+
+## Install and Run Locally
+```js
+$ git clone https://github.com/sobitp59/petcare.git
+$ cd petcare
+$ pnpm install
+$ pnpm run dev
+```
+
+## Features
+- Login and Signup and Signout
+- Stripe Payment Integration
+- Add pets
+- Edit pets
+- Search Pets
+
+## Tech Stack Used
+- NextJs
+- TypeScript
+- TailwindCSS
+- Shadcn UI
+- Prisma ORM
+- NextAuth
+- ZOD
+- React Hook Form
+- Stripe
+- Sonner
+- Neon Tech for PostgresSQL Database
+- Vercel for Deployment
+  
