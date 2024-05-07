@@ -1,36 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://github.com/sobitp59/petcare/assets/66735394/78110096-db79-4670-9ca8-c7de9960b35e)
+![image](https://github.com/sobitp59/petcare/assets/66735394/211521cc-344f-4c53-863f-1351e624a3a2)
+![image](https://github.com/sobitp59/petcare/assets/66735394/8cf5b56c-32ce-4130-894d-3f7392713c53)
+![image](https://github.com/sobitp59/petcare/assets/66735394/e2a6a9fc-7292-4f73-a164-2a242daea182)
+![image](https://github.com/sobitp59/petcare/assets/66735394/0435ed26-448b-4d2f-b306-b216890dc9f1)
+![image](https://github.com/sobitp59/petcare/assets/66735394/f2414dde-40c7-4fac-927e-2247d31ab5f8)
+![image](https://github.com/sobitp59/petcare/assets/66735394/7c64b477-bd96-45ed-b957-73e420c827fc)
+![image](https://github.com/sobitp59/petcare/assets/66735394/3956c6aa-b8fb-43ff-bd85-d9197cdcb0ae)
+![image](https://github.com/sobitp59/petcare/assets/66735394/dde9e256-37ad-4922-857c-721f9a01569f)
